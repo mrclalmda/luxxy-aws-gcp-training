@@ -3,7 +3,7 @@ This project demonstrates:
 - How to create AWS and GCP users and add policies to it through User Group Policies
 - How to deploy infrastructure as a code using Terraform
 - Leverage Kubernets and Docker to host our application in a containerized fashion 
-- How to migrate on-premises applications file and database to a multicloud environment
+- How to migrate on-premises application files and database to a multicloud environment
 
 ## Solution Architecture
 ![alt text](https://thecloudbootcamp.com/wp-content/uploads/2022/08/PT-PPT-MISSAO-1-2-3-ICP2_FINAL-2.png)
