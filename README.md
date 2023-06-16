@@ -11,7 +11,6 @@ This project demonstrates:
 ## Requisites
 
 AWS and GCP account
-Clone project files
 
 ## Part 1
 
