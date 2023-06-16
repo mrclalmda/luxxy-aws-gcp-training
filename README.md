@@ -10,7 +10,7 @@ This project demonstrates:
 
 ## Requisites
 
-AWS and GCP account
+AWS and GCP account, AVOID using root user account
 
 ## Part 1
 
