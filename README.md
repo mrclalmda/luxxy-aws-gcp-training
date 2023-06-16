@@ -211,9 +211,9 @@ aws s3 sync . s3://<S3-BUCKET-ID>
 ```
 See if the application update its data over "Ver resultados" tab
 
-DONE! We have simulated a migration from a on-premises archtecture to a Multicloud one! 
+DONE! We have simulated a migration from a on-premises archtecture to a multicloud one! 
 
-**Dont forget to delete every resource creates on AWS and GCP!**
+**Dont forget to delete every resource created on AWS and GCP!**
 
 ## Acknowledgements
 
