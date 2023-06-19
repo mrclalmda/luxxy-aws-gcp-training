@@ -216,4 +216,4 @@ DONE! We have simulated a migration from a on-premises archtecture to a multiclo
 
 ## Acknowledgements
 
-Many thanks to @Jean Rodrigues for helping out with this amazing hands-on tutorial!
+Many thanks to @Jean Rodrigues
