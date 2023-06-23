@@ -145,8 +145,11 @@ gcloud builds submit --tag gcr.io/<PROJECT_ID>/luxxy-covid-testing-system-app-pt
 
 Go to Cloud Editor and edit the Kubernets Deployment File (luxxy-covid-testing-system.yaml) 
 >Line 33, add your GCP Project ID
+
 >Line 42, your AWS Bucket ID
+
 >Line 44 and Line 46, add user access credentials
+
 >Line 48, add Cloud SQL Private IP
 
 Open Google Kubernets Engine service
